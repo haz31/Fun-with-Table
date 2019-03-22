@@ -11,6 +11,8 @@ public class firststep {
 	    char reponse;
 	    char[] oui = {'o'};
 	    char[] non = {'n'};
+	    // c'est un commentaire
+	    
 	    boolean question = false;
 	    
 		//Tableau vide
